@@ -1,0 +1,1 @@
+This program asks for the 2 names whose love score is to be calculated. Then, based on the number of times the alphabets of "true" and  "love" appear in the names, it calculates the first and second digits of the love score respectively.
